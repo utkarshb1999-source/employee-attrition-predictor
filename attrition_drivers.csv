@@ -1,0 +1,38 @@
+Feature,Impact
+BusinessTravel_Travel_Frequently,0.612486310339232
+avg_hours_per_day,0.6038656685790441
+MaritalStatus_Single,0.5437677122734142
+YearsSinceLastPromotion,0.4906667322052391
+NumCompaniesWorked,0.3443250341159849
+BusinessTravel_Travel_Rarely,0.3357029965699083
+JobRole_Sales Executive,0.2606106645663891
+YearsAtCompany,0.1638966163459532
+JobRole_Research Scientist,0.15947808996241924
+MaritalStatus_Married,0.1444646505421247
+JobRole_Research Director,0.10099714031732687
+JobRole_Laboratory Technician,0.0921668478935732
+JobRole_Sales Representative,0.07476081054303703
+JobRole_Human Resources,0.05030812185164749
+JobInvolvement,0.04841073139629624
+PercentSalaryHike,0.03442075075682128
+PerformanceRating,0.030308319195282242
+DistanceFromHome,0.010052498578630005
+JobRole_Manager,0.008859956420472445
+Gender_Male,0.0037916741874099613
+attendance_rate,-0.010160416570033252
+MonthlyIncome,-0.03219430828790205
+JobRole_Manufacturing Director,-0.1359552773705815
+EducationField_Other,-0.21329456312816944
+TrainingTimesLastYear,-0.2320477153842351
+WorkLifeBalance,-0.24860166326450336
+EducationField_Technical Degree,-0.28795380442997925
+Department_Sales,-0.31139105589043886
+EducationField_Life Sciences,-0.3255864127594318
+EducationField_Medical,-0.3298730058010568
+EducationField_Marketing,-0.3383955808840564
+Department_Research & Development,-0.34859683302851363
+Age,-0.3603876914279821
+EnvironmentSatisfaction,-0.3928132496406266
+TotalWorkingYears,-0.4085359225703855
+JobSatisfaction,-0.4184532751154921
+YearsWithCurrManager,-0.6436136647955543
